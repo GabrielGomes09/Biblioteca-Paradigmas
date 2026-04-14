@@ -1,5 +1,10 @@
+C:\Users\user\Desktop\Paradigmas\.gitignore
+# Visual Studio
 .vs/
 x64/
-*.exe
-*.obj
-*.pdb
+Debug/
+Release/
+
+# Project files
+BibliotecaSistema.sln
+BibliotecaSistema/
